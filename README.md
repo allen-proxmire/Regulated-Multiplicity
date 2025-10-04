@@ -1,5 +1,5 @@
 # The Regulated Multiplicity Hypothesis  
-### Consciousness as the *Stereoscopic Mind*
+### Consciousness from a *Stereoscopic Mind*
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17253162.svg)](https://doi.org/10.5281/zenodo.17253162)
 
@@ -17,9 +17,8 @@ The central idea:
 ---
 
 ## Contents
-- `xxxx.md` – concise (~3 page) note suitable for preprint archives.  
-- `yyyy.md` – extended (~6 page) draft formatted for journal submission.  
-- `zzzz.md` – email / forum pitch version for outreach and feedback.  
+- `The Regulated Multiplicity Hypothesis of Consciousness_short.pdf` – concise (~3 page) note suitable for preprint archives.  
+- `The Regulated Multiplicity Hypothesis of Consciousness_full.pdf` – extended draft formatted for journal submission.   
 - `notes/` – working notes and background references.  
 
 ---
