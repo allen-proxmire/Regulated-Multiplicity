@@ -1,7 +1,8 @@
 # The Regulated Multiplicity Hypothesis  
-### Consciousness as the *Stereoscopic Mind*
+### Consciousness from a *Stereoscopic Mind*
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxxx.svg)](https://doi.org/10.5281/zenodo.xxxxxxx)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17253162.svg)](https://doi.org/10.5281/zenodo.17253162)
+
 
 ---
 
@@ -16,9 +17,8 @@ The central idea:
 ---
 
 ## Contents
-- `xxxx.md` – concise (~3 page) note suitable for preprint archives.  
-- `yyyy.md` – extended (~6 page) draft formatted for journal submission.  
-- `zzzz.md` – email / forum pitch version for outreach and feedback.  
+- `The Regulated Multiplicity Hypothesis of Consciousness_short.pdf` – concise (~3 page) note suitable for preprint archives.  
+- `The Regulated Multiplicity Hypothesis of Consciousness_full.pdf` – extended draft formatted for journal submission.   
 - `notes/` – working notes and background references.  
 
 ---
@@ -26,18 +26,18 @@ The central idea:
 ## Citation
 If you use or refer to this work, please cite it as:  
 
-> [Your Name]. (2025). *The Regulated Multiplicity Hypothesis: Consciousness as the Stereoscopic Mind*. Zenodo. https://doi.org/10.5281/zenodo.xxxxxxx  
+> [Allen Proxmire]. (2025). *The Regulated Multiplicity Hypothesis: Consciousness from a Stereoscopic Mind*. Zenodo. https://doi.org/10.5281/zenodo.17253162  
 
-*(Replace `xxxxx` with the actual Zenodo DOI once minted.)*
+
 
 BibTeX format:  
 ```bibtex
 @misc{regulated_multiplicity_2025,
-  author       = {Your Name},
-  title        = {The Regulated Multiplicity Hypothesis: Consciousness as the Stereoscopic Mind},
-  year         = 2025,
-  publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.xxxxxxx},
-  url          = {https://doi.org/10.5281/zenodo.xxxxxxx}
+  author       = {Allen Proxmire}
+  title        = {The Regulated Multiplicity Hypothesis: Consciousness from a Stereoscopic Mind}
+  year         = 2025
+  publisher    = {Zenodo}
+  doi          = {10.5281/zenodo.17253162}
+  url          = {https://doi.org/10.5281/zenodo.17253162}
 }
 ``
