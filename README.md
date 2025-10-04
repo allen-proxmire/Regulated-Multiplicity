@@ -33,11 +33,19 @@ If you use or refer to this work, please cite it as:
 BibTeX format:  
 ```bibtex
 @misc{regulated_multiplicity_2025,
+<<<<<<< HEAD
   author       = {Allen Proxmire}
   title        = {The Regulated Multiplicity Hypothesis: Consciousness from a Stereoscopic Mind}
   year         = 2025
   publisher    = {Zenodo}
   doi          = {10.5281/zenodo.17253162}
+=======
+  author       = {Allen Proxmire},
+  title        = {The Regulated Multiplicity Hypothesis: Consciousness from a Stereoscopic Mind},
+  year         = 2025,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.17253162},
+>>>>>>> bc1e899273df5b91ffb4b14a6ab2f14605afa7c7
   url          = {https://doi.org/10.5281/zenodo.17253162}
 }
 ``
