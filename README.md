@@ -65,9 +65,9 @@ However, the core conceptual claims and architectural commitments of Regulated M
 ## Citation and Priority
 
 This repository is archived and versioned via Zenodo and hosted on GitHub.  
-Each release constitutes a timestamped snapshot of the full repository contents.
+[![DOI](https://zenodo.org/badge/1068656235.svg)](https://doi.org/10.5281/zenodo.17253161)
 
-Researchers are encouraged to cite the appropriate Zenodo DOI corresponding to the version referenced.
+Each release constitutes a timestamped snapshot of the full repository contents.
 
 ---
 
