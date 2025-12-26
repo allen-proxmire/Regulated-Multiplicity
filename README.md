@@ -83,11 +83,11 @@ More materials will be added over time, including diagrams, talks, and supplemen
 
 ## Citation
 
-If you reference this work, please cite:
+This repository is archived and versioned via Zenodo and hosted on GitHub.  
+[![DOI](https://zenodo.org/badge/1068656235.svg)](https://doi.org/10.5281/zenodo.17253161)
 
-**Proxmire, Allen. 2025. _Regulated Multiplicity: An Architectural Account of Consciousness and Subjectivity._**
-
-Zenodo DOI here.
+Each release constitutes a timestamped snapshot of the full repository contents.
+>>>>>>> 1ac75426f006e3884ccd10b7d68619886e65db2f
 
 ---
 
