@@ -11,9 +11,9 @@
 
 This repository contains:
 
-- The full polished manuscript  
-- A short note (1,000–2,500 words)  
-- A one‑page summary  
+- Full manuscripts  
+- A short note  
+- A one‑page explainer  
 - Supporting materials and conceptual diagrams (as they are added)  
 
 The goal is to make the theory accessible to researchers, philosophers, cognitive scientists, and anyone interested in the architecture of mind.
